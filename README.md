@@ -1,11 +1,10 @@
 # README -- DLNLP_assignment_24
 
 ## a brief description of the organization of the project
-The model and dataset used in this report are accessed through online downloads, so this project does not include 
-a dataset module and can be run solely with the Python file.
+The project relies on online resources for the model and dataset, eliminating the need for a dedicated dataset module. The entire project functionality is encapsulated within a single Python file, making it straightforward to run.
 
 ## the role of each file
-main.py: Provides access to the model, dataset, and the specific implementation of the project.
+main.py: Centralizes access to the model and dataset, and contains the core implementation of the project's functionality.
 
 ## the packages required
 datasets
